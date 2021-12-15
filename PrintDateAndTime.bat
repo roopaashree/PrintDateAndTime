@@ -1,2 +1,3 @@
 echo %DATE%
+echo %TIME%
 
